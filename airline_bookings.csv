@@ -1,0 +1,4 @@
+booking_id,customer_name,flight_from,flight_to,booking_date,ticket_price
+1,John Doe,Toronto,Dubai,2026-01-10,1200
+2,Jane Smith,Vancouver,Istanbul,2026-01-12,980
+3,Ali Khan,Calgary,Kabul,2026-01-15,1450
